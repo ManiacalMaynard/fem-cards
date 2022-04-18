@@ -26,8 +26,10 @@
 /*     -----     Typography     -----     */
 
 body {
+  background-color: hsl(250, 100%, 10%);
   font-size: 1rem;
   font-family: "Lexend Deca", sans-serif;
+  color: white;
 }
 
 .card > h2 {
@@ -104,5 +106,5 @@ btn:focus {
   text-align: center;
 }
 .attribution a {
-  color: hsl(228, 45%, 44%);
+  color: hsl(228, 45%, 60%);
 }
